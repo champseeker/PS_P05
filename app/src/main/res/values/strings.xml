@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">P05-NDPSongs</string>
+    <string name="app_name_insert">P05-NDPSongs ~ Insert Song</string>
+    <string name="app_name_show">P05-NDPSongs ~ Show Song</string>
+    <string name="app_name_modify">P05-NDPSongs ~ Modify Song</string>
+</resources>
